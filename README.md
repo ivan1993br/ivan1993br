@@ -8,7 +8,7 @@ Robotics professional - Looking to grow with the community - Always eager to fac
 
 ![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=ivan1993br&hide=stars&show_icons=true)
 
-[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=mateus-amarante&hide=javascript,java,c,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=ivan1993br&hide=javascript,java,c,c#,matlab,CMake&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 _Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for this wonderful dashboard_
 
