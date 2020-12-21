@@ -6,7 +6,7 @@ Robotics professional - Looking to grow with the community - Always eager to fac
 - 💬 Ask me about anything [here](https://github.com/mateus-amarante/ivan1993br/issues)
 - 📫 How to reach me: ivan1993br@gmail.com | [LinkedIn](https://www.linkedin.com/in/ivan-oliveira-tarifa-716234169/)
 
-![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=ivan1993br&hide=starst&show_icons=true)
+![Anurag's github stats](https://github-readme-stats-sigma-sepia.vercel.app/api?count_private=true&username=ivan1993br&hide=stars&show_icons=true)
 
 [![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=mateus-amarante&hide=javascript,java,c,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
